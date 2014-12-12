@@ -25,7 +25,7 @@
     'author': 'Moldeo Interactive',
     'category': 'base.module_category_hidden',
     'demo_xml': [],
-    'depends': ['fiscal_printer', 'l10n_ar_invoice'],
+    'depends': ['fpoc', 'l10n_ar_invoice'],
     'description': 'Fiscal Printer on the Cloud module for Argentina Localization',
     'init_xml': [],
     'installable': True,
