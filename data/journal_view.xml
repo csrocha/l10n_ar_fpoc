@@ -31,7 +31,10 @@
 			    <group colspan="2" col="2">
 			    <field name='fiscal_printer_id'/>
 			    <field name='fiscal_printer_configuration_id'/>
+			    <field name='fiscal_printer_anon_partner_id'/>
 			    <field name='fiscal_printer_state'/>
+			    <field name='fiscal_printer_fiscal_state'/>
+			    <field name='fiscal_printer_paper_state'/>
 			    <field name='fiscal_printer_items_generated'/>
 			    </group>
 			</page>
